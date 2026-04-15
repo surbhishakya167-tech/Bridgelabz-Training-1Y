@@ -1,0 +1,4 @@
+package PersonalizedMealPlanGenerator;
+
+interface MealPlan {
+}
